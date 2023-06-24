@@ -1,2 +1,3 @@
 # madlibs
-MAdlibs created using tkinter and mablibs on a webpage(HTML, CSS and JS)
+Madlibs created using tkinter (run using:  python3 madlib_tkinter.py)
+Mablibs on a webpage(HTML, CSS and JS)
