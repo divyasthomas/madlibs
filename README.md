@@ -5,3 +5,8 @@
 Mablibs on a webpage(HTML, CSS and JS)
 - download all files in web folder
 - open index.html in browser
+- preview:
+- 
+  ![screenshot](Screenshot%20from%202023-06-24%2017-53-37.png)
+
+  
