@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mad Libs</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1 class="title">Hello! Let's Play Mad Libs &#x1F60A; </h1>
+  <div class="container">
+    <label for="story-select">Choose a topic:</label>
+    <select id="story-select" onchange="changeInputs()">
+      <option value="story1">Story 1</option>
+      <option value="story2">Story 2</option>
+      <option value="story3">Story 3</option>
+    </select>
+    
+    <div id="input-fields"></div>
+    
+    <button onclick="generateStory()">Generate Story</button>
+    
+    <p id="story"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
